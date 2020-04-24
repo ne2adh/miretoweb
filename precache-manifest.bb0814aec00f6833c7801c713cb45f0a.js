@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d45e5d882a355860b8bbea5a7e71a3e",
+    "revision": "bad8163916428939b4885412bfae4a1c",
     "url": "/miretoweb/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/miretoweb/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "81b3c6ba303a3ae9c65c",
+    "revision": "92756af48701d8a90755",
     "url": "/miretoweb/static/css/main.9cb17295.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/miretoweb/static/js/2.623fdf06.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "81b3c6ba303a3ae9c65c",
-    "url": "/miretoweb/static/js/main.18c713cf.chunk.js"
+    "revision": "92756af48701d8a90755",
+    "url": "/miretoweb/static/js/main.dd31a9cf.chunk.js"
   },
   {
     "revision": "147f5a2a00bcf0ba082b",

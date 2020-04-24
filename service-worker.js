@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/miretoweb/precache-manifest.39229bdfd06199aaa0d23f5a8551713f.js"
+  "/miretoweb/precache-manifest.bb0814aec00f6833c7801c713cb45f0a.js"
 );
 
 self.addEventListener('message', (event) => {
