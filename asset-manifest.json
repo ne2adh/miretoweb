@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/miretoweb/static/css/main.9cb17295.chunk.css",
+    "main.js": "/miretoweb/static/js/main.18c713cf.chunk.js",
+    "main.js.map": "/miretoweb/static/js/main.18c713cf.chunk.js.map",
+    "runtime-main.js": "/miretoweb/static/js/runtime-main.2b464976.js",
+    "runtime-main.js.map": "/miretoweb/static/js/runtime-main.2b464976.js.map",
+    "static/css/2.69121389.chunk.css": "/miretoweb/static/css/2.69121389.chunk.css",
+    "static/js/2.623fdf06.chunk.js": "/miretoweb/static/js/2.623fdf06.chunk.js",
+    "static/js/2.623fdf06.chunk.js.map": "/miretoweb/static/js/2.623fdf06.chunk.js.map",
+    "index.html": "/miretoweb/index.html",
+    "precache-manifest.39229bdfd06199aaa0d23f5a8551713f.js": "/miretoweb/precache-manifest.39229bdfd06199aaa0d23f5a8551713f.js",
+    "service-worker.js": "/miretoweb/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/miretoweb/static/css/2.69121389.chunk.css.map",
+    "static/css/main.9cb17295.chunk.css.map": "/miretoweb/static/css/main.9cb17295.chunk.css.map",
+    "static/js/2.623fdf06.chunk.js.LICENSE.txt": "/miretoweb/static/js/2.623fdf06.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b464976.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.623fdf06.chunk.js",
+    "static/css/main.9cb17295.chunk.css",
+    "static/js/main.18c713cf.chunk.js"
+  ]
+}
